@@ -12,7 +12,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
 
 # Load the dataset
-mart_df = pd.read_csv(r"C:\Users\Raj Kumar Vij\OneDrive\mart.csv")
+mart_df = pd.read_csv("mart.csv")
 
 columns_to_drop = ['Order ID', 'Order Date', 'Ship Date', 'Customer Name','Profit', 'Sales']
 
