@@ -1,4 +1,5 @@
 # Internship Project - Data Science with Python Career Program
+# Amazing Mart Sales Prediction
 
 The Dataset used in this project is the "Amazing Mart" Dataset, which contains the information about different products taken by different customer from different geographical areas for the year 2013 to 2016 with their sales and profits. 
 The Data consist of two files Order Data which is a TSV file and Order Breakdown Data which is in JSON format. In this we have to Import the Data properly and merge the data and make a single data frame, save this data frame in a CSV format.
